@@ -1,0 +1,5 @@
+# Ignore virtual environment folders
+**/venv/
+
+# Ignore assignment zip file
+.10446.zip
