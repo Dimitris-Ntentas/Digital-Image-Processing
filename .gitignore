@@ -1,5 +1,10 @@
 # Ignore virtual environment folders
 **/venv/
 
+# Ignore Python byte-compiled files
+__pycache__/
+*.pyc
+
 # Ignore assignment zip file
-.10446.zip
+10446.zip
+report.pdf
